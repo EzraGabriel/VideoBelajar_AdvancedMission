@@ -1,0 +1,6 @@
+[submodule "Node JS Mission"]
+	path = Node JS Mission
+	url = https://github.com/EzraGabriel/Node-JS-Mission.git
+[submodule "React-Mission"]
+	path = React-Mission
+	url = https://github.com/EzraGabriel/VideoBelajar_StateManagement.git
